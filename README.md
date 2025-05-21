@@ -1,6 +1,6 @@
 # 🚍 Nusantara Ekspres - Aplikasi Pemesanan Tiket Bus
 
-Aplikasi berbasis Java yang digunakan untuk melakukan simulasi pemesanan tiket bus antarkota di Indonesia. Aplikasi ini bekerja melalui interaksi konsol dan menghitung total harga tiket berdasarkan kota asal dan tujuan, kelas layanan, serta jumlah penumpang.
+Aplikasi berbasis Java yang digunakan untuk melakukan simulasi pemesanan tiket bus antarprovinsi di Indonesia. Aplikasi ini bekerja melalui interaksi konsol dan menghitung total harga tiket berdasarkan kota asal dan tujuan, kelas layanan, serta jumlah penumpang.
 
 ---
 
