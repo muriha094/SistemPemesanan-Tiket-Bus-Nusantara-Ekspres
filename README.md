@@ -87,7 +87,7 @@ Berikut adalah alur kerja sistem Nusantara Ekspres:
 
 1. **Clone atau Download Proyek dari GitHub**
    ```bash
-   git clone https://github.com/usernameAnda/nusantara-ekspres.git
+   git clone https://github.com/muriha094/nusantara-ekspres.git
 2. Buka IDE Java seperti IntelliJ, Eclipse, NetBeans, Vs Code.
 3. Pilih folder yang sudah didownloa/clone tadi
 4. Kemudian, jalankan program.
